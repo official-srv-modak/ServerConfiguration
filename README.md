@@ -1,0 +1,2 @@
+# ServerConfiguration
+Template server configuration

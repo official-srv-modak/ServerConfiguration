@@ -139,16 +139,6 @@ public class ServerConnection {
 		}
 	}
 	
-	public boolean checkEmail(String email)
-	{
-		boolean successFlag = false;
-		if(email.contains("@temenos.com"))
-			return true;
-		else
-			return false;
-	}
-	
-	
 	public static void main(String args[]) {
 		
 	}

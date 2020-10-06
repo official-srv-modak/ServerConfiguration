@@ -17,10 +17,6 @@ import java.util.Set;
 
 public class ServerConnection {
 	
-	public static String password = "sourav";
-	public static String URLCheck = "http://10.94.13.58/checkConnection.php";
-	public static String URLWrite = "http://10.94.13.58/writeData.php";
-	
 	public static boolean addUser(List<String> userData, String URL)
 	{
 		boolean successFlag = false;
